@@ -1,7 +1,5 @@
 # Generate ALV Report in ABAP
 
-My project work completed as part of my summer internship 2016 at [Oil and Natural Gas Corporation (ONGC)](www.ongcindia.com)
+The main source code is available [here](https://github.com/Diksha-Rathi/Generate-ALV-Report-in-ABAP/blob/master/Final%20Project/ZTEST_DIKSHA_PROJECT.abap)
 
-The main source code is available at [Final Project]()
-
-The project report can be accessed [here]()
+The project report can be accessed [here](https://raw.githubusercontent.com/Diksha-Rathi/Generate-ALV-Report-in-ABAP/master/Project%20Report%2C%20ONGC-%20Diksha.pdf)
