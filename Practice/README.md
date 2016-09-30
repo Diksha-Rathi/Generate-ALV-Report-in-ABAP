@@ -14,10 +14,8 @@ USR02 is a standard SAP Table which is used to store Logon Data (Kernel-Side Use
 
 TABLE- ZETEST2
 
-SNO:
-NAME:
-SALARY:
-
+| SNO | NAME | SALARY |
+|-----|------|--------|
 
 * [Use SELECT-OPTION and PARAMETER with F4 Help object](https://github.com/Diksha-Rathi/Generate-ALV-Report-in-ABAP/blob/master/Practice/ZTEST_DIKSHA_SELECT3.abap)
 
